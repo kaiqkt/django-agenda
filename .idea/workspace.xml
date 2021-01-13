@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="101749e7-963c-412d-b4d7-b606b283d446" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contatos/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/contatos/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contatos/templates/details.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/contatos/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/contatos/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contatos/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/contatos/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/contatos/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/contatos/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/detalhes.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/detalhes.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,10 +38,11 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/templates" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/contatos/templates" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Zed\Desktop\django-agenda\contatos\templates" />
       <recent name="C:\Users\Zed\Desktop\django-agenda\templates" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -64,7 +67,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610550975174</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="view com dados dinamicos">
+      <created>1610553071714</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1610553071714</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -82,6 +92,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="template, models, admin" />
-    <option name="LAST_COMMIT_MESSAGE" value="template, models, admin" />
+    <MESSAGE value="view com dados dinamicos" />
+    <option name="LAST_COMMIT_MESSAGE" value="view com dados dinamicos" />
   </component>
 </project>

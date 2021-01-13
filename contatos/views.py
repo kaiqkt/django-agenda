@@ -8,3 +8,10 @@ def index(request):
     return render(request, 'index.html', {
         'contatos': contatos
     })
+
+
+def detail(request, contato_id):
+    contato = Contato.objects.get(id=contato_id)
+    return render(request, 'details.html', {
+        'contato': contato
+    })
